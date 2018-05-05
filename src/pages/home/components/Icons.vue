@@ -4,13 +4,13 @@
       <div class="icon-img">
         <img class="icon-img-content" src="http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png">
       </div>
-      <p class="icon-intro">123456</p>
+      <p class="icon-intro">123</p>
     </div>
     <div class="icon">
       <div class="icon-img">
         <img class="icon-img-content" src="http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png">
       </div>
-      <p class="icon-intro">123</p>
+      <p class="icon-intro">456</p>
     </div>
   </div>
 </template>
